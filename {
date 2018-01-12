@@ -1,0 +1,33 @@
+{
+	"name": "John",
+	"age":54,
+	"city":"NYC",
+	"ocupation":"student",
+	"phone":"049123123",
+	"status":"married"
+
+},
+
+{
+	"name": "Isabella",
+	"age":31,
+	"city":"Minnesota"
+
+},
+{
+	"name": "Will",
+	"age":23
+	"city":"LA"
+
+},
+
+{
+	"name": "Lilly",
+	"age":29,
+	"city":"Washington"
+	"street":"W 2"
+
+},
+
+
+
